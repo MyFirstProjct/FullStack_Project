@@ -1,0 +1,4 @@
+# dependencies (Github is version control)
+/node_modules
+# dependencies
+node_modules/
